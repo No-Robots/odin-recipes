@@ -1,0 +1,17 @@
+.main-h {
+    font-weight: 700;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+.list {
+    margin: auto;
+    width: 50%;
+    border: 3px solid lightgray;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: gray;
+    text-align: justify;
+}
