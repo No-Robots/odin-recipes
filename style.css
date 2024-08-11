@@ -6,6 +6,7 @@
     font-family:'Courier New', Courier, monospace;
 }
 .list {
+    margin-bottom: 20px;
     margin: auto;
     width: 50%;
     border: 3px solid lightgray;
@@ -14,4 +15,26 @@
     padding-bottom: 10px;
     color: gray;
     text-align: justify;
+}
+.small-h{
+    font-weight: 500;
+    margin: 15px;
+    padding:10px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+.description{
+    text-align: center;
+    margin: 20px;
+    font-size: 15px;
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
